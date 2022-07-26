@@ -1,0 +1,21 @@
+.title {
+  cursor: pointer;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.padding {
+  padding: 22px 0;
+}
+
+.text {
+  padding: 2px 0 22px;
+  font-size: 14px;
+  font-family: 'Source Code Pro', monospace;
+  white-space: pre-line;
+}
+
+.open {
+  color: #FF34DF;
+}
